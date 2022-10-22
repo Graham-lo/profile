@@ -1,9 +1,9 @@
 #okx
 DOMAIN,ulogs.umeng.com
+DOMAIN,cloudflare-dns.com
+DOMAIN,zd.okx-dv.net
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,ronghub.com
 DOMAIN-SUFFIX,aliyunddos1021.com
-DOMAIN,cloudflare-dns.com
-DOMAIN,zd.okx-dv.net
 IP-CIDR,203.107.46.160/32
 IP-CIDR,180.76.76.200/32
