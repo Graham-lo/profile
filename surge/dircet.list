@@ -2,7 +2,7 @@
 DOMAIN,ulogs.umeng.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,ronghub.com
-DOMAIN,162e96v0j360y37d.aliyunddos1021.com
+DOMAIN-SUFFIX,aliyunddos1021.com
 DOMAIN,cloudflare-dns.com
 DOMAIN,zd.okx-dv.net
 IP-CIDR,203.107.46.160/32
