@@ -5,7 +5,7 @@ DOMAIN,zd.okx-dv.net
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,amplitude.com
-DOMAIN-SUFFIX,cloudfront.net
+#DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,ronghub.com
 DOMAIN-SUFFIX,aliyunddos1021.com
 IP-CIDR,203.107.46.160/32
