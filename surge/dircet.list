@@ -3,7 +3,7 @@ DOMAIN,ulogs.umeng.com
 DOMAIN,cloudflare-dns.com
 DOMAIN,zd.okx-dv.net
 DOMAIN-SUFFIX,appsflyer.com
-#DOMAIN,in.appcenter.ms
+DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,ronghub.com
 DOMAIN-SUFFIX,aliyunddos1021.com
